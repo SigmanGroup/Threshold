@@ -48,6 +48,11 @@ Python tool to assess data for single-parameter thresholds
 				
 ## Acknowledgements 
 We acknowledge _____ for funding. xxxx
+The following people have contributed to developing this workflow:
+- Sleight Smith
+- Tobias Gensch
+- Ellyn Peters
+- Cian Kingston
 
 ## Citation
 This code is released under the MIT license. Commercial use, Modification, Distribution and Private use are all permitted. 
