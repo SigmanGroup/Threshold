@@ -47,7 +47,7 @@ Python tool to assess data for single-parameter thresholds
 				- toggle comment on line 89
 				
 ## Acknowledgements 
-We acknowledge _____ for funding. xxxx
+Funding: NSF CCI Center for Computer Assisted Synthesis (CHE-1925607)
 The following people have contributed to developing this workflow:
 - Sleight Smith
 - Tobias Gensch
