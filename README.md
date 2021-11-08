@@ -56,4 +56,6 @@ The following people have contributed to developing this workflow:
 
 ## Citation
 This code is released under the MIT license. Commercial use, Modification, Distribution and Private use are all permitted. 
-The use of this workflow can be acknowledged with the following citation: 10.26434/chemrxiv.14388557 
+The use of this workflow can be acknowledged with the following citation: https://www.science.org/doi/10.1126/science.abj4213
+
+Zenodo (2021); http://doi.org/10.5281/zenodo.5227162
